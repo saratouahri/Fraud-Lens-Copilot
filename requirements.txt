@@ -1,0 +1,10 @@
+streamlit
+fastapi
+uvicorn
+pandas
+plotly
+duckdb
+langchain
+langchain-community
+langchain-core
+llama-cpp-python

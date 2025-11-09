@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+.env
+
+# Model files
+models/
+*.gguf
+
+# Data
+*.duckdb
+*.csv
+*.json
