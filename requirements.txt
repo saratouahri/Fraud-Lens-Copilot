@@ -2,7 +2,7 @@ streamlit
 fastapi
 uvicorn
 pandas
-plotly==5.24.0
+plotly==5.17.0
 duckdb
 langchain
 langchain-community
